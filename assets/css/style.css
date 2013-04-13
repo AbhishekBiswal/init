@@ -1,3 +1,19 @@
+@font-face
+{
+	font-family: "Museo Sans";
+	src: url('../fonts/museosans.ttf'),
+	url('../fonts/museosans.eot'),
+	url('../fonts/museosans.woff');
+}
+
+@font-face
+{
+	font-family: "Museo Slab";
+	src: url('../fonts/museoslab.ttf'),
+	url('../fonts/museoslab.eot'),
+	url('../fonts/museoslab.woff');
+}
+
 body
 {
 	font-family: "Museo Sans", Helvetica, Arial, sans-serif;
